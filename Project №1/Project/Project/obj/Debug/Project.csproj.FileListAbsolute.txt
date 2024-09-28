@@ -1,0 +1,16 @@
+E:\Project №1\Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+E:\Project №1\Project\Project\obj\Debug\Project.HyperXForm.resources
+E:\Project №1\Project\Project\obj\Debug\Project.LogForm.resources
+E:\Project №1\Project\Project\obj\Debug\Project.Properties.Resources.resources
+E:\Project №1\Project\Project\obj\Debug\Project.RazerVip.resources
+E:\Project №1\Project\Project\obj\Debug\Project.SteelForm.resources
+E:\Project №1\Project\Project\obj\Debug\Project.ZowieForm.resources
+E:\Project №1\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+E:\Project №1\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+E:\Project №1\Project\Project\bin\Debug\Project.exe.config
+E:\Project №1\Project\Project\bin\Debug\Project.exe
+E:\Project №1\Project\Project\bin\Debug\Project.pdb
+E:\Project №1\Project\Project\obj\Debug\Project.exe
+E:\Project №1\Project\Project\obj\Debug\Project.pdb
+E:\Project №1\Project\Project\obj\Debug\Project.GamesMouseForm.resources
+E:\Project №1\Project\Project\obj\Debug\Project.InfoForm.resources
